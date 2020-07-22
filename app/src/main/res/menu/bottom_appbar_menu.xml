@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/date"
+        android:icon="@drawable/ic_baseline_calendar_today_24"
+        android:title="Date" />
+
+    <item
+        android:id="@+id/delete"
+        android:icon="@drawable/ic_baseline_delete_outline_24"
+        android:title="Delete" />
+    <item
+        android:id="@+id/menu"
+        android:icon="@drawable/ic_baseline_menu_24"
+        android:title="Menu" />
+
+</menu>
