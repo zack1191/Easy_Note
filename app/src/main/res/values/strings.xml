@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Easy Note</string>
+    <string name="note_title">Title</string>
+    <string name="note_brief">GENEVA: Researchers are making "good progress" in developing vaccines against COVID-19, with a handful in late-stage trials, but their first use cannot be expected until early 2021, a World Health Organization (WHO) expert said on Wednesday (Jul 22).</string>
+    <string name="et_brief">Brief</string>
+    <string name="note_save">Save</string>
 </resources>
